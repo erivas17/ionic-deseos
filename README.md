@@ -1,2 +1,2 @@
 # ionic-deseos
-Ionic App example
+Ionic + Angular App example
